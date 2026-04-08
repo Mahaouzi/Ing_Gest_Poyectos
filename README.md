@@ -34,7 +34,7 @@
 | Nombre y Apellidos  | Correo UBU |
 |--------------------|-------------|
 | Douha Zaazoui      | dzx1005@alu.ubu.es|
-| Maryam Elhaouzi    |mex1057@alu.ubu.es@ubu.es     |
-| Julia Cano Millán  |jcm1043@alu.ubu.es@ubu.es     |
+| Maryam Elhaouzi    |mex1057@alu.ubu.es    |
+| Julia Cano Millán  |jcm1043@alu.ubu.es     |
 ---
 
