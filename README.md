@@ -1,21 +1,74 @@
 <h1>Ingeniería y gestión de proyectos</h1>
+Aquí tienes una lista de **puntos clave** que puedes incluir en la introducción o desarrollar a lo largo del documento del trabajo, organizados por categorías:
 
-Repositorio para gestionar el aprendizaje de los conceptos de la asignatura de Ingeniería y gestión de proyectos de 2º de Grado de Ingeniería de la Salud de la Universidad de Burgos.
+---
 
-Utilizaremos este repositorio como plantilla para realizar la primera actividad de evaluación continua de la asignatura. <b>El peso de esta actividad es de un 15% sobre el total</b>. Se evaluará la participación equitativa de todos los miembros del equipo, pudiendose solicitar una defensa de la actividad el día de la entrega. 
+## 📌 Objetivos del trabajo
 
-<b>Fecha de entrega:</br> 
+1. Evaluar la comprensión de los conceptos de gestión de proyectos vistos en clase.
+2. Aplicar metodologías ágiles (Scrum) en un proyecto simulado.
+3. Fomentar el trabajo en equipo y la colaboración sincronizada.
+4. Utilizar herramientas profesionales: **GitHub** (repositorio y Wiki) y **JIRA** (tablero ágil).
+5. Generar evidencias cuantitativas y cualitativas del progreso del proyecto.
 
-La presentación será el  martes 07/04/2026en clase de práctica </br>
+---
 
-La presentación será el  viernes 10/04/2026 en clase de práctica </br>
+## 📌 Pasos a seguir (resumen ejecutivo)
 
-<h2>Procedimiento</h2>
-1. Hacer grupos de 3-4 personas<br></br>
-2. Disponer todos los miembros del equipo de una cuenta en GitHub y en JIRA (usad el nombre de usuario del correo de la UBU)<br></br>
-3. Crear un fork de este proyecto en GitHub donde estén registrados todos los miembros del grupo<br></br>
-4. Leer las páginas del libro <a href="https://www.scrummanager.net/bok/index.php?title=Scrum_Manager_BoK">Libro Scrum Master</a> marcadas cada semana e ir rellenando en la WIKI del proyecto la información solicitada según la plantilla Capitulo_xx . En CAPITULO 03 se muestra como crear secciones, subseciones y apartados. 
-5. La gestión del trabajo debe realizarse con metodología SCRUM utilizando la herramienta JIRA, hay que crear epics, tareas (con puntos de historia) y srpints, mostrar evidencias mediante gráficos y pantallazos que se ha trabajado en grupo.  
+1. **Formación de equipos** de 3-4 personas.
+2. **Creación de cuentas** en GitHub y JIRA (con correo institucional UBU).
+3. **Fork del repositorio base** proporcionado por el profesor.
+4. **Configuración del tablero JIRA**:
+   - Crear épicas, sprints y tareas.
+   - Asignar puntos de historia.
+   - Asignar tareas a cada miembro.
+5. **Lectura semanal** de capítulos del libro *Scrum Master*.
+6. **Documentación en la Wiki** de GitHub siguiendo la plantilla proporcionada.
+7. **Seguimiento continuo** (reuniones, daily scrums, actualización de tableros).
+8. **Elaboración del informe final** (PDF con URLs, gráficos y lecciones aprendidas).
 
-<h2>Documentación</h2>
-<a href="https://www.scrummanager.net/bok/index.php?title=Scrum_Manager_BoK">Libro Scrum Master</a>
+---
+
+## 📌 Integrantes del equipo (plantilla)
+
+| Nombre y Apellidos | Rol sugerido | Correo UBU |
+|--------------------|--------------|-------------|
+| [Alumno 1]         | Scrum Master | @ubu.es     |
+| [Alumno 2]         | Product Owner | @ubu.es     |
+| [Alumno 3]         | Developer     | @ubu.es     |
+| [Alumno 4]         | Developer     | @ubu.es     |
+
+> *En equipos de 3, se pueden fusionar roles.*
+
+---
+
+## 📌 Ideas propias para destacar en el trabajo
+
+1. **Daily scrum simulado**  
+   Registrar reuniones diarias de 10 minutos con acta breve (qué se hizo, qué se hará, impedimentos).
+
+2. **Uso de etiquetas en GitHub**  
+   Usar `bug`, `enhancement`, `documentation` para clasificar issues y relacionarlas con JIRA.
+
+3. **Gráfico de evolución real**  
+   Exportar desde JIRA el *burn-down chart* o *velocity chart* para evidenciar el avance por sprint.
+
+4. **Tabla de puntos de historia por miembro**  
+   | Miembro | Sprint 1 | Sprint 2 | Total |
+   |---------|----------|----------|-------|
+   | Alumno1 | 5        | 8        | 13    |
+
+5. **Lecciones aprendidas (ejemplos realistas)**  
+   - La estimación con puntos de historia mejora con la práctica.  
+   - La falta de comunicación retrasa tareas bloqueantes.  
+   - El tablero JIRA solo es útil si se actualiza a diario.
+
+6. **Evidencia de trabajo sincronizado**  
+   Captura de pantalla del historial de commits en GitHub mostrando contribuciones de todos los miembros.
+
+7. **Reflexión final**  
+   Comparar la teoría de Scrum con la experiencia real: qué se cumplió y qué no, y por qué.
+
+---
+
+Si necesitas que desarrolle alguno de estos puntos en forma de texto (por ejemplo, las lecciones aprendidas o la descripción de los gráficos), solo tienes que decírmelo.
