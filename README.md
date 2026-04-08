@@ -29,7 +29,7 @@
 
 ---
 
-## 📌 Integrantes del equipo (plantilla)
+## 📌 Integrantes del equipo 
 
 | Nombre y Apellidos  | Correo UBU |
 |--------------------|-------------|
