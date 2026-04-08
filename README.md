@@ -1,5 +1,5 @@
 <h1>Ingeniería y gestión de proyectos</h1>
-Aquí tienes una lista de **puntos clave** que puedes incluir en la introducción o desarrollar a lo largo del documento del trabajo, organizados por categorías:
+
 
 ---
 
